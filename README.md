@@ -25,14 +25,6 @@ The repository provides various functions and operations including:
 - Computation of pi: Using the Chudnovsky algorithm.
 - Miscellaneous: Set Decimal Precision and Exit the program.
 
-## Output
-The repository includes an output image demonstrating the program's functionality and accuracy in calculating pi.
-
-![Output Image](Images/Output.png)
-
-## Tables
-The tables in the documentation showcase the benchmarks for calculating the value of pi and the square root of 10005 with varying levels of precision.
-
 ## Conclusions
 The project successfully implements the BIGINT data structure and performs arithmetic operations on large integers. It also computes the value of pi using the Chudnovsky algorithm up to 10000 decimal places.
 
